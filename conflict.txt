@@ -1,1 +1,1 @@
-Login message from main branch
+Login message resolved from main and conflict branch
